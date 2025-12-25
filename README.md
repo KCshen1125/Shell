@@ -16,7 +16,7 @@
 ## 🚀 News
 
 - **[2025-12-25]** We have released the [Project Page](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell). The paper is available on ArXiv.
-- **[Coming Soon]** The **Dataset** (9,000 queries) and the **MENTOR** framework code are currently being organized and will be released shortly. Please star ⭐ this repository for the latest updates!
+- **[Coming Soon]** The **Dataset** and the **MENTOR** framework code are currently being organized and will be released shortly. Please star ⭐ this repository for the latest updates!
 
 ---
 
