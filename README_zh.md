@@ -56,8 +56,8 @@ MENTOR 旨在成为垂域大模型的“守护者”：
 如果您觉得我们的工作对您有帮助，请引用我们的论文：
 
 ```bibtex
-@article{shell2025domain,
-  title={Shell@Educhat: Uncovering and Mitigating Implicit Risks in Domain-Specific LLMs},
+@article{shell2025mentor,
+  title={MENTOR: A Metacognition-Driven Self-Evolution Framework for Uncovering and Mitigating Implicit Risks in LLMs on Domain Tasks},
   author={Shell@Educhat Team},
   journal={arXiv preprint arXiv:2511.07107},
   year={2025}
