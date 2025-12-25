@@ -16,7 +16,7 @@
 ## 🚀 最新动态
 
 - **[2025-12-25]** 项目主页 [Project Page](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell) 已上线，论文已发布于 ArXiv。
-- **[敬请期待]** 包含 9,000 条查询的 **数据集** 以及 **MENTOR** 框架代码正在整理中，稍后即将开源。欢迎 Star ⭐ 本仓库关注最新进展！
+- **[敬请期待]** 垂域隐式风险 **数据集** 以及 **MENTOR** 框架代码正在整理中，稍后即将开源。欢迎 Star ⭐ 本仓库关注最新进展！
 
 ---
 
