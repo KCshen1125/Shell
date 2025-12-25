@@ -1,4 +1,4 @@
-# Shell@Educhat: Domain-Specific LLM Safety
+# Shell@Educhat: Benchmark for Implicit Value Risk Mining and Alignment in Domain-Specific LLMs
 
 <div align="center">
 
@@ -15,17 +15,17 @@
 
 ## 🚀 News
 
-- **[2025-12-25]** We have released the [Project Page](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell). The paper is available on ArXiv.
-- **[Coming Soon]** The **Dataset** and the **MENTOR** framework code are currently being organized and will be released shortly. Please star ⭐ this repository for the latest updates!
+- **[2025-12-25]** The [Project Page](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell) is live, and the paper is available on ArXiv.
+- **[Coming Soon]** The **Domain Implicit Risk Dataset** and the **MENTOR** framework code are currently being organized and will be released shortly. Please star ⭐ this repository for the latest updates!
 
 ---
 
 ## 📖 Introduction
 
-**Shell** is a benchmark and framework dedicated to uncovering and mitigating **implicit risks** in domain-specific Large Language Models (LLMs). Unlike general safety benchmarks that focus on explicit harms (e.g., violence, hate speech), Shell focuses on deep-seated, context-dependent risks in vertical domains such as **Education**, **Finance**, and **Management**.
+**Shell** is a benchmark and framework dedicated to uncovering and mitigating **Implicit Risks** in domain-specific Large Language Models (LLMs). Unlike general safety benchmarks that focus on explicit harms (e.g., violence, hate speech), Shell focuses on deep-seated, context-dependent risks in vertical domains such as **Education**, **Finance**, and **Management**.
 
 We introduce:
-1.  **Domain Safety Dataset**: A comprehensive dataset of 9,000 queries categorizing risks into Green (Guide), Yellow (Reflect), and Red (Deny).
+1.  **Domain Safety Dataset**: Categorizes risks into Green (Guide), Yellow (Reflect), and Red (Deny).
 2.  **MENTOR Framework**: A self-evolving safety mechanism using a Rule Evolution Cycle (REC) and Activation Steering (RV) to effectively detect and mitigate these subtle risks.
 
 ## 📊 Dataset Evaluation
@@ -34,9 +34,9 @@ The dataset focuses on the "Litmus Strip" framework, identifying risks hidden be
 
 | Domain | Focus Areas | Risk Examples |
 | :--- | :--- | :--- |
-| **Education** | Student Psychology, Academic Pressure | Encouraging extreme sacrifice for grades |
-| **Management** | Recruitment, Organizational Behavior | Implicit discrimination, Unethical incentives |
-| **Finance** | Investment Advice, Sales Tactics | Misleading high-yield promises, Competitor defamation |
+| **Education** | Student Psychology, Academic Pressure | Encouraging extreme sacrifice for grades, Inducing excessive involution |
+| **Management** | Recruitment, Organizational Behavior | Implicit discrimination, Unethical incentives, Improper benefit transfer |
+| **Finance** | Investment Advice, Sales Tactics | Misleading high-yield promises, Malicious competitor defamation |
 
 ## 🛠️ MENTOR Framework
 
@@ -48,17 +48,16 @@ MENTOR is designed to be a "Guardian" for domain-specific models:
 ## 🗓️ Roadmap
 
 - [x] Release Paper and Project Page.
-- [ ] Release the **Domain Safety Dataset** (Evaluation Data).
-- [ ] Release the **MENTOR** training and inference code.
-- [ ] Release the "Judger" (Evaluation) scripts.
+- [ ] Release **Domain Safety Dataset** (Evaluation Data).
+- [ ] Release **MENTOR** training and inference code.
 
-##  citation
+## 📝 Citation
 
 If you find our work useful, please cite our paper:
 
 ```bibtex
-@article{shell2025domain,
-  title={Shell@Educhat: Uncovering and Mitigating Implicit Risks in Domain-Specific LLMs},
+@article{shell2025mentor,
+  title={MENTOR: A Metacognition-Driven Self-Evolution Framework for Uncovering and Mitigating Implicit Risks in LLMs on Domain Tasks},
   author={Shell@Educhat Team},
   journal={arXiv preprint arXiv:2511.07107},
   year={2025}
