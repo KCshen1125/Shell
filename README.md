@@ -12,7 +12,7 @@
 
 ## 🚀 News
 
-- **[2025-12-25]** The [Project Page](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell) is live, and the paper is available on ArXiv.
+- **[2025-12-25]** The Project Page is live, and the paper is available on ArXiv.
 - **[Coming Soon]** The **Domain Implicit Risk Dataset** and the **MENTOR** framework code are currently being organized and will be released shortly. Please star ⭐ this repository for the latest updates!
 
 ---
