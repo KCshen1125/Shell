@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ECNU-Data_Science-blue" alt="ECNU">
-<img src="https://img.shields.io/badge/Shanghai-AI_Lab-blue" alt="Shanghai AI Lab">
-
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2511.07107)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/KCshen1125/Shell-Safety-Benchmark/blob/main/LICENSE)
