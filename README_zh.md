@@ -4,7 +4,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2511.07107)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/feifeinoban/Shell)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://huggingface.co/spaces/feifeinoban/shell)
 [![Demo Download](https://img.shields.io/badge/Download-Single_Instance_Demo_(Google_Drive)-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/KCshen1125/Shell-Safety-Benchmark/blob/main/LICENSE)
 
