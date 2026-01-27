@@ -3,7 +3,9 @@
 <div align="center">
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2511.07107)
+[![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/feifeinoban/Shell)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell)
+[![Demo Download](https://img.shields.io/badge/Download-Large_Demo_(Google_Drive)-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/KCshen1125/Shell-Safety-Benchmark/blob/main/LICENSE)
 
 [English](README.md) | [中文](README_zh.md)
@@ -12,8 +14,27 @@
 
 ## 🚀 最新动态
 
+- **[2026-01-27]** 🎉 **双重发布！**
+    - 📊 **领域安全评测数据集** 已在 [Hugging Face](https://huggingface.co/datasets/feifeinoban/Shell) 正式开源。
+    - 📥 **大规模测试 Demo** 现已发布（托管于 [Google Drive](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)）。
 - **[2025-12-25]** 项目主页已上线，论文已发布于 ArXiv。
-- **[敬请期待]** 垂域隐式风险 **数据集** 以及 **MENTOR** 框架代码正在整理中，稍后即将开源。欢迎 Star ⭐ 本仓库关注最新进展！
+- **[敬请期待]** **MENTOR** 框架代码正在整理中，稍后即将开源。欢迎 Star ⭐ 本仓库关注最新进展！
+
+---
+
+## 💻 Demo 使用说明
+
+> **⚠️ 前置要求**
+> 在使用 Demo 之前，请确保你已经获取了以下平台的有效 API Key：
+> * **DeepSeek 官网**
+> * **通义千问 (阿里云百炼平台)**
+
+**支持配置：**
+* **智能体基座模型 (Agent Base Models)：** 本 Demo 目前仅支持使用 **DeepSeek** 和 **Qwen** 作为智能体基座。
+* **评测目标模型 (Evaluation Targets)：** 基准测试目前配置为对以下三种模型进行测试：
+    * **DeepSeek-R1**
+    * **Qwen-Plus**
+    * **GPT-4o**
 
 ---
 
@@ -45,7 +66,8 @@ MENTOR 旨在成为垂域大模型的“守护者”：
 ## 🗓️ 路线图 (Roadmap)
 
 - [x] 发布论文和项目主页
-- [ ] 发布 **领域安全数据集** (评估数据)
+- [x] 发布 **大规模测试 Demo** (Google Drive)
+- [x] 发布 **领域安全数据集** (Hugging Face)
 - [ ] 发布 **MENTOR** 训练与推理代码
 
 ## 📝 引用
