@@ -5,7 +5,7 @@
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2511.07107)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/feifeinoban/Shell)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell)
-[![Demo Download](https://img.shields.io/badge/Download-Large_Demo_(Google_Drive)-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)
+[![Demo Download](https://img.shields.io/badge/Download-Single_Instance_Demo_(Google_Drive)-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/KCshen1125/Shell-Safety-Benchmark/blob/main/LICENSE)
 
 [English](README.md) | [中文](README_zh.md)
@@ -16,7 +16,7 @@
 
 - **[2026-01-27]** 🎉 **双重发布！**
     - 📊 **领域安全评测数据集** 已在 [Hugging Face](https://huggingface.co/datasets/feifeinoban/Shell) 正式开源。
-    - 📥 **大规模测试 Demo** 现已发布（托管于 [Google Drive](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)）。
+    - 📥 **单例测试 Demo** 现已发布（托管于 [Google Drive](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)）。该 Demo 支持对单条 Query 进行深度的风险分析与测试。
 - **[2025-12-25]** 项目主页已上线，论文已发布于 ArXiv。
 - **[敬请期待]** **MENTOR** 框架代码正在整理中，稍后即将开源。欢迎 Star ⭐ 本仓库关注最新进展！
 
@@ -66,7 +66,7 @@ MENTOR 旨在成为垂域大模型的“守护者”：
 ## 🗓️ 路线图 (Roadmap)
 
 - [x] 发布论文和项目主页
-- [x] 发布 **大规模测试 Demo** (Google Drive)
+- [x] 发布 **单例测试 Demo** (Google Drive)
 - [x] 发布 **领域安全数据集** (Hugging Face)
 - [ ] 发布 **MENTOR** 训练与推理代码
 
