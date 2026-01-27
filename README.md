@@ -13,9 +13,25 @@
 
 ## 🚀 News
 
-- **[2026-01-27]** 📥 **The Large-Scale Test Demo is now available!** Due to file size limits, it is hosted on Google Drive. [Download here](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link).
+- **[2026-01-27]** 📥 **The Large-Scale Test Demo is now available!** [Download here](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link).
 - **[2025-12-25]** The Project Page is live, and the paper is available on ArXiv.
 - **[Coming Soon]** The **MENTOR** framework code is currently being organized and will be released shortly. Please star ⭐ this repository for the latest updates!
+
+---
+
+## 💻 Demo Usage
+
+> **⚠️ Prerequisites**
+> Before running the demo, please ensure you have obtained valid API keys from:
+> * **DeepSeek Official Website**
+> * **Qwen (Aliyun Bailian Platform)**
+
+**Supported Configurations:**
+* **Agent Base Models:** The demo currently supports **DeepSeek** and **Qwen** as the underlying agent backbones.
+* **Evaluation Targets:** The benchmark is configured to test the following three models:
+    * **DeepSeek-R1**
+    * **Qwen-Plus**
+    * **GPT-4o**
 
 ---
 
