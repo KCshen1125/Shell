@@ -3,8 +3,9 @@
 <div align="center">
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2511.07107)
+[![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/feifeinoban/Shell)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://feifeinoban.huggingface.co/spaces/feifeinoban/shell)
-[![Demo Download](https://img.shields.io/badge/Download-Large_Demo_(Google_Drive)-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)
+[![Demo Download](https://img.shields.io/badge/Download-Single_Instance_Demo_(Google_Drive)-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/KCshen1125/Shell-Safety-Benchmark/blob/main/LICENSE)
 
 [English](README.md) | [中文](README_zh.md)
@@ -13,9 +14,11 @@
 
 ## 🚀 News
 
-- **[2026-01-27]** 📥 **The Large-Scale Test Demo is now available!** [Download here](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link).
+- **[2026-01-27]** 🎉 **Double Release!**
+    - 📊 The **Domain Safety Dataset** is now officially available on [Hugging Face](https://huggingface.co/datasets/feifeinoban/Shell).
+    - 📥 The **Single-Instance Test Demo** is released via [Google Drive](https://drive.google.com/file/d/1-Lm5ke1cZHABzmbHm8eFckijFt30l7Jv/view?usp=drive_link). This demo allows for detailed analysis of individual queries.
 - **[2025-12-25]** The Project Page is live, and the paper is available on ArXiv.
-- **[Coming Soon]** The **MENTOR** framework code is currently being organized and will be released shortly. Please star ⭐ this repository for the latest updates!
+- **[Coming Soon]** The **MENTOR** framework code is currently being organized and will be released shortly.
 
 ---
 
@@ -63,8 +66,8 @@ MENTOR is designed to be a "Guardian" for domain-specific models:
 ## 🗓️ Roadmap
 
 - [x] Release Paper and Project Page.
-- [x] Release **Large-Scale Test Demo** (via Google Drive).
-- [ ] Release **Domain Safety Dataset** (Evaluation Data).
+- [x] Release **Single-Instance Test Demo** (via Google Drive).
+- [x] Release **Domain Safety Dataset** (on Hugging Face).
 - [ ] Release **MENTOR** training and inference code.
 
 ## 📝 Citation
